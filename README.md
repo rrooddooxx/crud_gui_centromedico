@@ -12,6 +12,8 @@ Stack utilizado:
 - DataGrip
 - Maven
 
+![Screenshot CRUD GUI CentroMédico por @wwiiddeeweb](crud_gui_centromedico.png "Screenshot CRUD GUI CentroMédico por @wwiiddeeweb")
+
 ## 📦 Dependencias:
 
 - mysql-connector-j@8.0.31
